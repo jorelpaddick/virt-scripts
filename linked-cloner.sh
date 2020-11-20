@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory of Storage Pool
-POOL_DIR=/home/jorel.paddick/Virtualised/raw
+POOL_DIR=/home/user/sotrage/pool
 # Place the name of the .qcow base image here. 
 # This should be located in the POOL_DIR
 BASE_IMG=nameOfBaseImage.qcow2
